@@ -5,4 +5,4 @@
 - The dataset I have used to train my traffic sign classifier is the German Traffic Sign Recognition Benchmark (GTSRB).
 - This GTSRB dataset consists of 43 traffic sign classes and nearly 50,000 images.
 
-Model Accuracy is 95%.
+Model Accuracy is upto 95%.
